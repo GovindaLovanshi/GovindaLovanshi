@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govinda_Lovanshi</h1>
-<h3 align="center">A passionate Full Stack Android Developer From India</h3>
+<h3 align="center">A passionate Full Stack Android and IOS Developer From India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
